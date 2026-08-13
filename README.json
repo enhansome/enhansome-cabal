@@ -1,0 +1,394 @@
+{
+  "items": [
+    {
+      "description": "There are various means of installing . Depending on your operating system and prefered method, you can choose a suitable way to do that.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "for PowerShell on Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-21T20:42:01Z",
+            "owner": "kakkun61",
+            "repo": "ghcman",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Chocolatey sources for pure Cabal installs on Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-01-24T21:05:46Z",
+            "owner": "Mistuke",
+            "repo": "CabalChoco",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Installation"
+    },
+    {
+      "description": "Backpack is a feature that allows implementing mix-in libraries in Haskell. Mix-in libraries can have signatures which permit implementations of values and types to be deferred, while allowing a library with missing implementations to still be type-checked.",
+      "items": [],
+      "title": "Backpack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Signatures for streaming libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2017-09-16T15:05:03Z",
+            "owner": "danidiaz",
+            "repo": "streamy",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Signatures for various containers (e.g. , , etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2020-11-06T17:57:16Z",
+            "owner": "kowainik",
+            "repo": "containers-backpack",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Signatures for string types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2017-05-28T20:40:33Z",
+            "owner": "haskell-backpack",
+            "repo": "backpack-str",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Backpack implementation of Reflex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2017-02-11T04:43:01Z",
+            "owner": "ezyang",
+            "repo": "reflex-backpack",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "It is recommended for Haskell packages to follow PvP — Package versioning Policy.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(by Kowainik)",
+          "description": "Policeman assists to properly choose the next version number according to PVP (Packaging Version Policy) for the Haskell packages based on the semantical changes to the interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2021-02-24T16:17:56Z",
+            "owner": "kowainik",
+            "repo": "policeman",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "The GitHub repository to create issues against.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-08-14T21:20:51Z",
+            "owner": "haskell",
+            "repo": "pvp",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "PVP"
+    },
+    {
+      "description": "CLI tools that provide additional interface to .",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Lightweight but opinionated wrapper around Cabal that makes working on Haskell projects fun and easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2019-12-02T10:13:33Z",
+            "owner": "haskell-mafia",
+            "repo": "mafia",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A tool suite to aid Haskell development using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2025-06-06T17:53:19Z",
+            "owner": "phadej",
+            "repo": "cabal-extras",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A utility for managing Hackage dependencies from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-06-03T09:42:42Z",
+            "owner": "sdiehl",
+            "repo": "cabal-edit",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Automation of Haskell package release process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2023-10-31T12:59:57Z",
+            "owner": "domenkozar",
+            "repo": "releaser",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Removes compilation artefacts in dist-newstyle/build from older versions of the package or superseded minor versions of GHC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-04-11T08:09:30Z",
+            "owner": "andreasabel",
+            "repo": "cabal-clean",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Cabal Assistants"
+    },
+    {
+      "description": "Information about how to set up Continious Integration on Haskell packages.",
+      "items": [],
+      "title": "CI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "This action allows caching dependencies and build outputs to improve workflow execution time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T18:13:46Z",
+            "owner": "actions",
+            "repo": "cache",
+            "stars": 5512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Set up your GitHub Actions workflow with a specific version of Haskell (GHC and Cabal).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-11T21:52:56Z",
+            "owner": "actions",
+            "repo": "setup-haskell",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "GitHub Actions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Docker image with GHC+musl and Cabal for static executables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-02-03T00:07:25Z",
+            "owner": "utdemir",
+            "repo": "ghc-musl",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "GHC + Cabal docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-02-01T22:45:45Z",
+            "owner": "phadej",
+            "repo": "docker-ghc",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Docker"
+    },
+    {
+      "description": "Cabal integration with other configuration languages and formats.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T00:19:00Z",
+            "owner": "yvan-sraka",
+            "repo": "cargo-cabal",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A tool to help with fetching Cabal packages from Hackage and importing them as packages into .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Starlark",
+            "last_commit": "2021-04-16T17:54:49Z",
+            "owner": "google",
+            "repo": "cabal2bazel",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "The opposite of . It lets you define a Haskell package in Nix and generate a Cabal file using that definition.",
+          "children": []
+        }
+      ],
+      "title": "Integration"
+    },
+    {
+      "description": "Helper tools for Cabal support in various Integrated Development Environments.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Cabal syntax highlighting plugin for Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2015-07-07T07:37:45Z",
+            "owner": "Twinside",
+            "repo": "vim-syntax-haskell-cabal",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell IDE Setup with cabal and nix",
+          "description": "Haskell setup for vscode with cabal and nix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2019-11-04T15:59:19Z",
+            "owner": "shivamashtikar",
+            "repo": "haskell-setup",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "files indentation plugin for Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2017-03-11T19:16:40Z",
+            "owner": "h-youhei",
+            "repo": "vim-cabal-indent",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "Improvements to the Awesome Cabal list are more than welcome. Please read the contributing guidelines, go ahead and make the difference!",
+      "items": [],
+      "title": "Contribute to this repository"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:08:34.042Z",
+    "original_repository": "kowainik/awesome-cabal",
+    "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
+    "enhanced_repository": "enhansome/enhansome-cabal",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cabal with stars"
+  }
+}
