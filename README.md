@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,743 | 🐛 1,955 | 🌐 Haskell | 📅 2026-08-11: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,953 | 🌐 Haskell | 📅 2026-08-13: Official GitHub source
   repository.
 
 ## Installation
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,743 | 🐛 1,955 | 🌐 Haskell | 📅 2026-08-11:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,953 | 🌐 Haskell | 📅 2026-08-13:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
