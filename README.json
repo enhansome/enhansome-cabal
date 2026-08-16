@@ -295,7 +295,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-09T00:19:00Z",
+            "last_commit": "2026-08-16T00:13:30Z",
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
             "stars": 112
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:33:44.953Z",
+    "last_updated": "2026-08-16T15:34:26.908Z",
     "original_repository": "kowainik/awesome-cabal",
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
     "enhanced_repository": "enhansome/enhansome-cabal",
