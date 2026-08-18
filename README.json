@@ -230,7 +230,7 @@
             "last_commit": "2026-07-15T18:13:46Z",
             "owner": "actions",
             "repo": "cache",
-            "stars": 5514
+            "stars": 5513
           }
         },
         {
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:36:57.316Z",
+    "last_updated": "2026-08-18T15:44:57.227Z",
     "original_repository": "kowainik/awesome-cabal",
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
     "enhanced_repository": "enhansome/enhansome-cabal",
