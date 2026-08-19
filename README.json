@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221095211,
             "language": "PowerShell",
             "last_commit": "2026-06-21T20:42:01Z",
             "owner": "kakkun61",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58163537,
             "language": "PowerShell",
             "last_commit": "2025-01-24T21:05:46Z",
             "owner": "Mistuke",
@@ -36,70 +38,76 @@
     },
     {
       "description": "Backpack is a feature that allows implementing mix-in libraries in Haskell. Mix-in libraries can have signatures which permit implementations of values and types to be deferred, while allowing a library with missing implementations to still be type-checked.",
-      "items": [],
-      "title": "Backpack"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "",
-          "description": "Signatures for streaming libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2017-09-16T15:05:03Z",
-            "owner": "danidiaz",
-            "repo": "streamy",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Signatures for various containers (e.g. , , etc.)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2020-11-06T17:57:16Z",
-            "owner": "kowainik",
-            "repo": "containers-backpack",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Signatures for string types.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2017-05-28T20:40:33Z",
-            "owner": "haskell-backpack",
-            "repo": "backpack-str",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Backpack implementation of Reflex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2017-02-11T04:43:01Z",
-            "owner": "ezyang",
-            "repo": "reflex-backpack",
-            "stars": 8
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Signatures for streaming libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99832987,
+                "language": "Haskell",
+                "last_commit": "2017-09-16T15:05:03Z",
+                "owner": "danidiaz",
+                "repo": "streamy",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Signatures for various containers (e.g. , , etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143502987,
+                "language": "Haskell",
+                "last_commit": "2020-11-06T17:57:16Z",
+                "owner": "kowainik",
+                "repo": "containers-backpack",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Signatures for string types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75998978,
+                "language": "Haskell",
+                "last_commit": "2017-05-28T20:40:33Z",
+                "owner": "haskell-backpack",
+                "repo": "backpack-str",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Backpack implementation of Reflex.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81625284,
+                "language": "Haskell",
+                "last_commit": "2017-02-11T04:43:01Z",
+                "owner": "ezyang",
+                "repo": "reflex-backpack",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
-      "title": "Libraries"
+      "title": "Backpack"
     },
     {
       "description": "It is recommended for Haskell packages to follow PvP — Package versioning Policy.",
@@ -111,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236153633,
             "language": "Haskell",
             "last_commit": "2021-02-24T16:17:56Z",
             "owner": "kowainik",
@@ -125,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18646467,
             "language": "CSS",
             "last_commit": "2024-08-14T21:20:51Z",
             "owner": "haskell",
@@ -145,6 +155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42970638,
             "language": "Haskell",
             "last_commit": "2019-12-02T10:13:33Z",
             "owner": "haskell-mafia",
@@ -159,6 +170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222278545,
             "language": "Haskell",
             "last_commit": "2025-06-06T17:53:19Z",
             "owner": "phadej",
@@ -173,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278071019,
             "language": "Haskell",
             "last_commit": "2023-06-03T09:42:42Z",
             "owner": "sdiehl",
@@ -187,6 +200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207100477,
             "language": "Haskell",
             "last_commit": "2023-10-31T12:59:57Z",
             "owner": "domenkozar",
@@ -201,6 +215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396873913,
             "language": "Haskell",
             "last_commit": "2026-04-11T08:09:30Z",
             "owner": "andreasabel",
@@ -213,76 +228,83 @@
     },
     {
       "description": "Information about how to set up Continious Integration on Haskell packages.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "This action allows caching dependencies and build outputs to improve workflow execution time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215566462,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T18:13:46Z",
+                "owner": "actions",
+                "repo": "cache",
+                "stars": 5513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Set up your GitHub Actions workflow with a specific version of Haskell (GHC and Cabal).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 210629718,
+                "language": "TypeScript",
+                "last_commit": "2020-12-11T21:52:56Z",
+                "owner": "actions",
+                "repo": "setup-haskell",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Actions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "Docker image with GHC+musl and Cabal for static executables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225121943,
+                "language": "Shell",
+                "last_commit": "2024-02-03T00:07:25Z",
+                "owner": "utdemir",
+                "repo": "ghc-musl",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "",
+              "description": "GHC + Cabal docker image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30972619,
+                "language": "Dockerfile",
+                "last_commit": "2022-02-01T22:45:45Z",
+                "owner": "phadej",
+                "repo": "docker-ghc",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker"
+        }
+      ],
       "title": "CI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "This action allows caching dependencies and build outputs to improve workflow execution time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T18:13:46Z",
-            "owner": "actions",
-            "repo": "cache",
-            "stars": 5513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Set up your GitHub Actions workflow with a specific version of Haskell (GHC and Cabal).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-12-11T21:52:56Z",
-            "owner": "actions",
-            "repo": "setup-haskell",
-            "stars": 76
-          }
-        }
-      ],
-      "title": "GitHub Actions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Docker image with GHC+musl and Cabal for static executables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-02-03T00:07:25Z",
-            "owner": "utdemir",
-            "repo": "ghc-musl",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "GHC + Cabal docker image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2022-02-01T22:45:45Z",
-            "owner": "phadej",
-            "repo": "docker-ghc",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Docker"
     },
     {
       "description": "Cabal integration with other configuration languages and formats.",
@@ -294,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531876766,
             "language": "Rust",
             "last_commit": "2026-08-16T00:13:30Z",
             "owner": "yvan-sraka",
@@ -308,18 +331,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 131946354,
             "language": "Starlark",
             "last_commit": "2021-04-16T17:54:49Z",
             "owner": "google",
             "repo": "cabal2bazel",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "The opposite of . It lets you define a Haskell package in Nix and generate a Cabal file using that definition.",
-          "children": []
         }
       ],
       "title": "Integration"
@@ -334,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2660147,
             "language": "VimL",
             "last_commit": "2015-07-07T07:37:45Z",
             "owner": "Twinside",
@@ -348,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219292951,
             "language": "Vim script",
             "last_commit": "2019-11-04T15:59:19Z",
             "owner": "shivamashtikar",
@@ -362,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78146568,
             "language": "Vim script",
             "last_commit": "2017-03-11T19:16:40Z",
             "owner": "h-youhei",
@@ -371,21 +392,12 @@
         }
       ],
       "title": "IDE"
-    },
-    {
-      "description": "Improvements to the Awesome Cabal list are more than welcome. Please read the contributing guidelines, go ahead and make the difference!",
-      "items": [],
-      "title": "Contribute to this repository"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:44:57.227Z",
+    "last_updated": "2026-08-19T12:18:42.223Z",
     "original_repository": "kowainik/awesome-cabal",
+    "original_repository_id": 234621048,
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
     "enhanced_repository": "enhansome/enhansome-cabal",
     "enhanced_repository_description": null,
