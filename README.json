@@ -243,7 +243,7 @@
                 "last_commit": "2026-07-15T18:13:46Z",
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5513
+                "stars": 5515
               }
             },
             {
@@ -280,7 +280,7 @@
                 "last_commit": "2024-02-03T00:07:25Z",
                 "owner": "utdemir",
                 "repo": "ghc-musl",
-                "stars": 138
+                "stars": 137
               }
             },
             {
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:47:37.788Z",
+    "last_updated": "2026-08-21T15:46:56.462Z",
     "original_repository": "kowainik/awesome-cabal",
     "original_repository_id": 234621048,
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
