@@ -243,7 +243,7 @@
                 "last_commit": "2026-07-15T18:13:46Z",
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5518
+                "stars": 5519
               }
             },
             {
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 531876766,
             "language": "Rust",
-            "last_commit": "2026-08-16T00:13:30Z",
+            "last_commit": "2026-08-23T00:13:46Z",
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
             "stars": 112
@@ -395,7 +395,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:33:54.906Z",
+    "last_updated": "2026-08-23T15:34:51.580Z",
     "original_repository": "kowainik/awesome-cabal",
     "original_repository_id": 234621048,
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
