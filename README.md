@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,940 | 🌐 Haskell | 📅 2026-08-23: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,956 | 🌐 Haskell | 📅 2026-08-24: Official GitHub source
   repository.
 
 ## Installation
@@ -90,6 +90,8 @@ system and prefered method, you can choose a suitable way to do that.*
 
 ## Scaffolding
 
+* [`example-cabal-project`](https://github.com/jkachmar/example-cabal-project) ⭐ 4 | 🐛 0 | 🌐 Haskell | 📅 2020-01-14:
+  A simple example project using cabal-install, Nix, and direnv.
 * [Quick start](https://www.haskell.org/cabal/users-guide/developing-packages.html#quickstart):
   Using `cabal init` command to create a project.
 * [`summoner`](https://hackage.haskell.org/package/summoner):
@@ -100,8 +102,6 @@ system and prefered method, you can choose a suitable way to do that.*
   Haskell projects.
 * [`hi`](https://hackage.haskell.org/package/hi):
   Generate scaffold for cabal project.
-* [`example-cabal-project`](https://github.com/jkachmar/example-cabal-project) ⭐ 4 | 🐛 0 | 🌐 Haskell | 📅 2020-01-14:
-  A simple example project using cabal-install, Nix, and direnv.
 
 ## `Cabal` Configuration Format
 
@@ -125,14 +125,14 @@ system and prefered method, you can choose a suitable way to do that.*
 posts on specific features, or description of handy parts of the Cabal
 specification.*
 
+* [Foreign libraries example](https://github.com/pdlla/haskell-ffi-cabal-foreign-library-examples) ⭐ 17 | 🐛 0 | 🌐 Haskell | 📅 2020-02-22:
+  Example usage of foreign libraries.
 * [Common Stanzas](https://vrom911.github.io/blog/common-stanzas):
   Blog post about Cabal's common stanzas feature.
 * [Multiple Libraries](https://fgaz.me/posts/2019-11-14-cabal-multiple-libraries/):
   Blog post about Cabal's multiple libraries feature.
 * [Foreign libraries](https://qnikst.github.io/posts/2018-05-02-cabal-foreign-library.html):
   Blog post about Cabal's foreign libraries feature.
-* [Foreign libraries example](https://github.com/pdlla/haskell-ffi-cabal-foreign-library-examples) ⭐ 17 | 🐛 0 | 🌐 Haskell | 📅 2020-02-22:
-  Example usage of foreign libraries.
 * [source-repository-package](https://cabal.readthedocs.io/en/latest/cabal-project.html#specifying-packages-from-remote-version-control-locations):
   Specifying packages from remote version control locations (e.g. how to use
   GitHub dependencies in the Cabal packages).
@@ -164,13 +164,13 @@ still be type-checked.*
 
 ### Tutorials
 
+* [Really small Backpack example](https://github.com/danidiaz/really-small-backpack-example) ⭐ 59 | 🐛 0 | 🌐 Haskell | 📅 2025-12-09:
+  A small tutorial on the very basics of the Backpack module system.
 * [Edward Z. Yang blog](http://blog.ezyang.com/category/haskell/backpack/):
   Blog posts about Backpack implementation and usage from the Backpack author.
 * [Picnic: Put containers into backpack (by Kowainik)](https://kowainik.github.io/posts/2018-08-19-picnic-put-containers-into-a-backpack):
   This blog post walks the reader through the Backpack implementation of the
   uniform interface for containers (`Map`s and `Set`s).
-* [Really small Backpack example](https://github.com/danidiaz/really-small-backpack-example) ⭐ 59 | 🐛 0 | 🌐 Haskell | 📅 2025-12-09:
-  A small tutorial on the very basics of the Backpack module system.
 
 ### Libraries
 
@@ -253,13 +253,13 @@ Policy.*
 
 ### Dependencies analysers
 
+* [`weeder`](https://github.com/ocharles/weeder) ⭐ 188 | 🐛 40 | 🌐 Haskell | 📅 2026-06-23:
+  Tool for detecting redundant Cabal package dependencies that uses `.hie`
+  files introduced in GHC-8.8.
 * [`cabalgraph`](https://hackage.haskell.org/package/cabalgraph):
   Generate pretty graphs of module trees from `.cabal` files.
 * [`cabal-progdeps`](https://hackage.haskell.org/package/cabal-progdeps):
   Show dependencies of program being built in current directory.
-* [`weeder`](https://github.com/ocharles/weeder) ⭐ 188 | 🐛 40 | 🌐 Haskell | 📅 2026-06-23:
-  Tool for detecting redundant Cabal package dependencies that uses `.hie`
-  files introduced in GHC-8.8.
 * [`packdeps`](https://hackage.haskell.org/package/packdeps):
   A library and command line tool for checking if the upper bounds in your
   Cabal package's dependency list excludes the newest package available.
@@ -282,15 +282,15 @@ Policy.*
 
 #### AppVeyor
 
+* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 134 | 🐛 43 | 🌐 Haskell | 📅 2026-08-06:
+  Minimal working example of the `appveyor.yml` configuration file.
 * [Haskell & AppVeyor Chocolatey Introduction](https://hub.zhox.com/posts/chocolatey-introduction/):
   Stey-by-step description of building Haskel packages with Chocolatey and
   Cabal on AppVeyor CI.
-* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 134 | 🐛 43 | 🌐 Haskell | 📅 2026-08-06:
-  Minimal working example of the `appveyor.yml` configuration file.
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,519 | 🐛 238 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,522 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,940 | 🌐 Haskell | 📅 2026-08-23:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,956 | 🌐 Haskell | 📅 2026-08-24:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
