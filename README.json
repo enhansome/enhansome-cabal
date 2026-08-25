@@ -169,7 +169,7 @@
                 "last_commit": "2017-05-28T20:40:33Z",
                 "owner": "haskell-backpack",
                 "repo": "backpack-str",
-                "stars": 21
+                "stars": 20
               }
             },
             {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:53:44.150Z",
+    "last_updated": "2026-08-25T06:29:41.050Z",
     "original_repository": "kowainik/awesome-cabal",
     "original_repository_id": 234621048,
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",

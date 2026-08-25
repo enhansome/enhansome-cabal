@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,956 | 🌐 Haskell | 📅 2026-08-24: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,957 | 🌐 Haskell | 📅 2026-08-24: Official GitHub source
   repository.
 
 ## Installation
@@ -178,7 +178,7 @@ still be type-checked.*
   Signatures for streaming libraries.
 * [`containers-backpack`](https://github.com/kowainik/containers-backpack) ⭐ 32 | 🐛 14 | 🌐 Haskell | 📅 2020-11-06:
   Signatures for various containers (e.g. `Map`, `HashMap`, etc.)
-* [`backpack-str`](https://github.com/haskell-backpack/backpack-str) ⭐ 21 | 🐛 0 | 🌐 Haskell | 📅 2017-05-28:
+* [`backpack-str`](https://github.com/haskell-backpack/backpack-str) ⭐ 20 | 🐛 0 | 🌐 Haskell | 📅 2017-05-28:
   Signatures for string types.
 * [`reflex-backpack`](https://github.com/ezyang/reflex-backpack) ⭐ 8 | 🐛 1 | 🌐 Haskell | 📅 2017-02-11:
   Backpack implementation of Reflex.
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,956 | 🌐 Haskell | 📅 2026-08-24:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,957 | 🌐 Haskell | 📅 2026-08-24:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
