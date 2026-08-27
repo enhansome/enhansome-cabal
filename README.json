@@ -373,7 +373,7 @@
                 "last_commit": "2026-07-15T18:13:46Z",
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5521
+                "stars": 5520
               }
             },
             {
@@ -569,9 +569,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:33:57.741Z",
-    "original_repository": "kowainik/awesome-cabal",
-    "original_repository_id": 234621048,
+    "last_updated": "2026-08-27T11:30:19.548Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 234621048,
+      "language": null,
+      "last_commit": "2023-12-06T10:54:37Z",
+      "owner": "kowainik",
+      "repo": "awesome-cabal",
+      "stars": 122
+    },
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
     "enhanced_repository": "enhansome/enhansome-cabal",
     "enhanced_repository_description": null,
