@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,961 | 🌐 Haskell | 📅 2026-08-26: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,961 | 🌐 Haskell | 📅 2026-08-27: Official GitHub source
   repository.
 
 ## Installation
@@ -216,7 +216,7 @@ Policy.*
   Haskell projects fun and easy.
 * [`cabal-extras`](https://github.com/phadej/cabal-extras) ⭐ 90 | 🐛 29 | 🌐 Haskell | 📅 2025-06-06:
   A tool suite to aid Haskell development using `cabal-install`.
-* [`cabal-edit`](https://github.com/sdiehl/cabal-edit) ⭐ 77 | 🐛 3 | 🌐 Haskell | 📅 2023-06-03:
+* [`cabal-edit`](https://github.com/sdiehl/cabal-edit) ⭐ 78 | 🐛 3 | 🌐 Haskell | 📅 2023-06-03:
   A utility for managing Hackage dependencies from the command line.
 * [`releaser`](https://github.com/domenkozar/releaser) ⭐ 31 | 🐛 12 | 🌐 Haskell | 📅 2023-10-31:
   Automation of Haskell package release process.
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,961 | 🌐 Haskell | 📅 2026-08-26:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,961 | 🌐 Haskell | 📅 2026-08-27:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
