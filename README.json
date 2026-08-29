@@ -16,7 +16,8 @@
             "owner": "kakkun61",
             "repo": "ghcman",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Mistuke",
             "repo": "CabalChoco",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "Installation"
@@ -52,7 +54,8 @@
             "owner": "jkachmar",
             "repo": "example-cabal-project",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "Scaffolding"
@@ -73,7 +76,8 @@
             "owner": "minimapletinytools",
             "repo": "haskell-ffi-cabal-foreign-library-examples",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "Components"
@@ -96,7 +100,8 @@
                 "owner": "ezyang",
                 "repo": "thesis",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -118,7 +123,8 @@
                 "owner": "danidiaz",
                 "repo": "really-small-backpack-example",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -140,7 +146,8 @@
                 "owner": "danidiaz",
                 "repo": "streamy",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             },
             {
               "node_type": "item",
@@ -155,7 +162,8 @@
                 "owner": "kowainik",
                 "repo": "containers-backpack",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             },
             {
               "node_type": "item",
@@ -170,7 +178,8 @@
                 "owner": "haskell-backpack",
                 "repo": "backpack-str",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             },
             {
               "node_type": "item",
@@ -185,7 +194,8 @@
                 "owner": "ezyang",
                 "repo": "reflex-backpack",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -211,7 +221,8 @@
             "owner": "kowainik",
             "repo": "policeman",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -226,7 +237,8 @@
             "owner": "haskell",
             "repo": "pvp",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "PVP"
@@ -247,7 +259,8 @@
             "owner": "haskell-mafia",
             "repo": "mafia",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -262,7 +275,8 @@
             "owner": "phadej",
             "repo": "cabal-extras",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -277,7 +291,8 @@
             "owner": "sdiehl",
             "repo": "cabal-edit",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -292,7 +307,8 @@
             "owner": "domenkozar",
             "repo": "releaser",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -307,7 +323,8 @@
             "owner": "andreasabel",
             "repo": "cabal-clean",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "children": [
@@ -324,7 +341,8 @@
                 "owner": "ocharles",
                 "repo": "weeder",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -352,7 +370,8 @@
                 "owner": "kowainik",
                 "repo": "tomland",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -373,8 +392,9 @@
                 "last_commit": "2026-07-15T18:13:46Z",
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5520
-              }
+                "stars": 5524
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             },
             {
               "node_type": "item",
@@ -389,7 +409,8 @@
                 "owner": "actions",
                 "repo": "setup-haskell",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -411,7 +432,8 @@
                 "owner": "composewell",
                 "repo": "packcheck",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -433,7 +455,8 @@
                 "owner": "utdemir",
                 "repo": "ghc-musl",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             },
             {
               "node_type": "item",
@@ -448,7 +471,8 @@
                 "owner": "phadej",
                 "repo": "docker-ghc",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -470,7 +494,8 @@
                 "owner": "begriffs",
                 "repo": "heroku-buildpack-ghc",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-29T00:00:31.992Z"
             }
           ],
           "description": null,
@@ -496,7 +521,8 @@
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -511,7 +537,8 @@
             "owner": "google",
             "repo": "cabal2bazel",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "Integration"
@@ -532,7 +559,8 @@
             "owner": "Twinside",
             "repo": "vim-syntax-haskell-cabal",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -547,7 +575,8 @@
             "owner": "shivamashtikar",
             "repo": "haskell-setup",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         },
         {
           "node_type": "item",
@@ -562,14 +591,15 @@
             "owner": "h-youhei",
             "repo": "vim-cabal-indent",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:00:31.992Z"
         }
       ],
       "title": "IDE"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:24:03.740Z",
+    "last_updated": "2026-08-29T00:00:31.992Z",
     "original_repository_info": {
       "archived": false,
       "id": 234621048,
