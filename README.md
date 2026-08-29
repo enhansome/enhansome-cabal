@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,524 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,525 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:

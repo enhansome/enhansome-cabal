@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Switch GHC and Cabal quickly on PowerShell",
+            "homepage": "https://www.powershellgallery.com/packages/ghcman/",
             "id": 221095211,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-21T20:42:01Z",
+            "open_issues": 2,
             "owner": "kakkun61",
             "repo": "ghcman",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cabal",
+              "ghc",
+              "hacktoberfest",
+              "haskell",
+              "powershell",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chocolatey sources for pure Cabal installs",
+            "homepage": null,
             "id": 58163537,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2025-01-24T21:05:46Z",
+            "open_issues": 2,
             "owner": "Mistuke",
             "repo": "CabalChoco",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -48,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple example project using cabal-install, Nix, and direnv",
+            "homepage": null,
             "id": 233912089,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2020-01-14T18:50:25Z",
+            "open_issues": 0,
             "owner": "jkachmar",
             "repo": "example-cabal-project",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -70,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example project of using cabal 2.0`s foreign-library feature to build a haskell library that lets you call haskell code from C/C++.",
+            "homepage": null,
             "id": 178622122,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2020-02-22T01:30:23Z",
+            "open_issues": 0,
             "owner": "minimapletinytools",
             "repo": "haskell-ffi-cabal-foreign-library-examples",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -94,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Thesis",
+                "homepage": null,
                 "id": 78043482,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2018-04-04T19:25:44Z",
+                "open_issues": 0,
                 "owner": "ezyang",
                 "repo": "thesis",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -117,12 +149,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A really small example of the Backpack module system for Haskell",
+                "homepage": null,
                 "id": 128645457,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2025-12-09T20:49:32Z",
+                "open_issues": 0,
                 "owner": "danidiaz",
                 "repo": "really-small-backpack-example",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "backpack",
+                  "haskell",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -140,12 +181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using Backpack to abstract over the main Haskell streaming libraries.",
+                "homepage": null,
                 "id": 99832987,
                 "language": "Haskell",
+                "license": "MIT",
                 "last_commit": "2017-09-16T15:05:03Z",
+                "open_issues": 3,
                 "owner": "danidiaz",
                 "repo": "streamy",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             },
@@ -156,12 +202,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎒 Backpack interface for containers",
+                "homepage": "https://kowainik.github.io/projects/containers-backpack",
                 "id": 143502987,
                 "language": "Haskell",
+                "license": "MPL-2.0",
                 "last_commit": "2020-11-06T17:57:16Z",
+                "open_issues": 14,
                 "owner": "kowainik",
                 "repo": "containers-backpack",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "backpack",
+                  "containers",
+                  "data-structures",
+                  "haskell",
+                  "signatures"
+                ]
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             },
@@ -172,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Str signature and implementations",
+                "homepage": null,
                 "id": 75998978,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2017-05-28T20:40:33Z",
+                "open_issues": 0,
                 "owner": "haskell-backpack",
                 "repo": "backpack-str",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             },
@@ -188,12 +250,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reflex with Backpack",
+                "homepage": null,
                 "id": 81625284,
                 "language": "Haskell",
+                "license": null,
                 "last_commit": "2017-02-11T04:43:01Z",
+                "open_issues": 1,
                 "owner": "ezyang",
                 "repo": "reflex-backpack",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -215,12 +282,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👮 Haskell PVP adviser",
+            "homepage": "https://kowainik.github.io/projects/policeman",
             "id": 236153633,
             "language": "Haskell",
+            "license": "MPL-2.0",
             "last_commit": "2021-02-24T16:17:56Z",
+            "open_issues": 7,
             "owner": "kowainik",
             "repo": "policeman",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "bristol-hackathon",
+              "haskell",
+              "package-maintenance",
+              "pvp"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -231,12 +308,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell Package Version Policy (PVP)",
+            "homepage": "http://pvp.haskell.org/",
             "id": 18646467,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-08-14T21:20:51Z",
+            "open_issues": 24,
             "owner": "haskell",
             "repo": "pvp",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "cabal",
+              "hackage",
+              "haskell",
+              "pvp",
+              "specification"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -253,12 +341,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides protection against cabal swindling, robbing, injuring or sabotaging people with chopsticks.",
+            "homepage": "http://haskell-mafia.github.io/mafia/",
             "id": 42970638,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-12-02T10:13:33Z",
+            "open_issues": 34,
             "owner": "haskell-mafia",
             "repo": "mafia",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "build-tool",
+              "cabal",
+              "haskell"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -269,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool suite to aid Haskell development using `cabal-install`",
+            "homepage": null,
             "id": 222278545,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2025-06-06T17:53:19Z",
+            "open_issues": 29,
             "owner": "phadej",
             "repo": "cabal-extras",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -285,12 +387,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility for managing Hackage dependencies and manipulating Cabal files from the command line.",
+            "homepage": null,
             "id": 278071019,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2023-06-03T09:42:42Z",
+            "open_issues": 3,
             "owner": "sdiehl",
             "repo": "cabal-edit",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "cabal",
+              "cabal-install",
+              "cli"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -301,12 +412,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automation of Haskell package release process.",
+            "homepage": null,
             "id": 207100477,
             "language": "Haskell",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-31T12:59:57Z",
+            "open_issues": 12,
             "owner": "domenkozar",
             "repo": "releaser",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cabal",
+              "haskell"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -317,12 +436,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remove outdated compilation artefacts left by cabal v2-build",
+            "homepage": "https://hackage.haskell.org/package/cabal-clean",
             "id": 396873913,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-11T08:09:30Z",
+            "open_issues": 1,
             "owner": "andreasabel",
             "repo": "cabal-clean",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "cabal",
+              "clean",
+              "disk-space",
+              "haskell"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -335,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A re-implementation of weeder using HIE files",
+                "homepage": null,
                 "id": 207516878,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-23T13:36:05Z",
+                "open_issues": 40,
                 "owner": "ocharles",
                 "repo": "weeder",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -364,12 +498,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏝 Bidirectional TOML serialization",
+                "homepage": "https://kowainik.github.io/posts/2019-01-14-tomland",
                 "id": 125436266,
                 "language": "Haskell",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-06T21:10:04Z",
+                "open_issues": 43,
                 "owner": "kowainik",
                 "repo": "tomland",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "bidirectional",
+                  "configuration",
+                  "hacktoberfest",
+                  "haskell",
+                  "profunctors",
+                  "toml",
+                  "toml-parser"
+                ]
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -387,12 +534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cache dependencies and build outputs in GitHub Actions",
+                "homepage": null,
                 "id": 215566462,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-15T18:13:46Z",
+                "open_issues": 239,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5524
+                "stars": 5525,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             },
@@ -403,12 +555,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " Set up your GitHub Actions workflow with a specific version of Haskell (GHC and Cabal)",
+                "homepage": null,
                 "id": 210629718,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-11T21:52:56Z",
+                "open_issues": 21,
                 "owner": "actions",
                 "repo": "setup-haskell",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -426,12 +583,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal build and CI testing for Haskell packages",
+                "homepage": null,
                 "id": 68154905,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-05-25T08:33:48Z",
+                "open_issues": 15,
                 "owner": "composewell",
                 "repo": "packcheck",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "build",
+                  "continuous-integration",
+                  "haskell",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -449,12 +616,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image with GHC+musl for static executables",
+                "homepage": null,
                 "id": 225121943,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2024-02-03T00:07:25Z",
+                "open_issues": 12,
                 "owner": "utdemir",
                 "repo": "ghc-musl",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "docker",
+                  "hacktoberfest",
+                  "haskell",
+                  "musl",
+                  "static-binaries"
+                ]
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             },
@@ -465,12 +643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GHC + Cabal docker image",
+                "homepage": "https://hub.docker.com/r/phadej/ghc/",
                 "id": 30972619,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2022-02-01T22:45:45Z",
+                "open_issues": 3,
                 "owner": "phadej",
                 "repo": "docker-ghc",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -488,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy Haskell apps to Heroku",
+                "homepage": null,
                 "id": 13180779,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-05-27T04:43:55Z",
+                "open_issues": 9,
                 "owner": "begriffs",
                 "repo": "heroku-buildpack-ghc",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
             }
@@ -515,12 +703,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library!",
+            "homepage": "https://crates.io/crates/cargo-cabal",
             "id": 531876766,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T00:13:46Z",
+            "open_issues": 6,
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "haskell",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -531,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Haskell Bazel rules and cabal2bazel import tool.",
+            "homepage": null,
             "id": 131946354,
             "language": "Starlark",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-16T17:54:49Z",
+            "open_issues": 3,
             "owner": "google",
             "repo": "cabal2bazel",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -553,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Syntax file for Haskell's cabal syntax file",
+            "homepage": "http://www.vim.org/scripts/script.php?script_id=2625",
             "id": 2660147,
             "language": "VimL",
+            "license": null,
             "last_commit": "2015-07-07T07:37:45Z",
+            "open_issues": 0,
             "owner": "Twinside",
             "repo": "vim-syntax-haskell-cabal",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -569,12 +775,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell setup for vscode with cabal and nix",
+            "homepage": null,
             "id": 219292951,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2019-11-04T15:59:19Z",
+            "open_issues": 1,
             "owner": "shivamashtikar",
             "repo": "haskell-setup",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cabal",
+              "haskell",
+              "ide",
+              "nix",
+              "nix-shell",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         },
@@ -585,12 +803,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 78146568,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2017-03-11T19:16:40Z",
+            "open_issues": 1,
             "owner": "h-youhei",
             "repo": "vim-cabal-indent",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cabal",
+              "vim-indent"
+            ]
           },
           "first_seen": "2026-08-29T00:00:31.992Z"
         }
@@ -599,15 +825,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:00:31.992Z",
+    "last_updated": "2026-08-29T04:58:35.316Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
+      "homepage": "https://kowainik.github.io/projects/awesome-cabal",
       "id": 234621048,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-06T10:54:37Z",
+      "open_issues": 2,
       "owner": "kowainik",
       "repo": "awesome-cabal",
-      "stars": 122
+      "stars": 122,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cabal",
+        "cabal-assistants",
+        "haskell",
+        "haskell-cabal"
+      ]
     },
     "original_repository_sha": "c8327d6043926f9cb1761604ef6defc0f05734fc",
     "enhanced_repository": "enhansome/enhansome-cabal",
