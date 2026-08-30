@@ -282,7 +282,7 @@ Policy.*
 
 #### AppVeyor
 
-* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 134 | 🐛 43 | 🌐 Haskell | 📅 2026-08-06:
+* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 134 | 🐛 43 | 🌐 Haskell | 📅 2026-08-30:
   Minimal working example of the `appveyor.yml` configuration file.
 * [Haskell & AppVeyor Chocolatey Introduction](https://hub.zhox.com/posts/chocolatey-introduction/):
   Stey-by-step description of building Haskel packages with Chocolatey and
@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,525 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,527 | 🐛 239 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -340,7 +340,7 @@ Policy.*
 
 *Cabal integration with other configuration languages and formats.*
 
-* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-08-23:
+* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-08-30:
   A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 * [`cabal2bazel`](https://github.com/google/cabal2bazel) ⚠️ Archived:
   A tool to help with fetching Cabal packages from Hackage and importing them
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
