@@ -540,10 +540,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-15T18:13:46Z",
-                "open_issues": 239,
+                "open_issues": 240,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5528,
+                "stars": 5529,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:49:09.952Z",
+    "last_updated": "2026-09-01T18:27:49.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
