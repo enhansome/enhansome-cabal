@@ -543,7 +543,7 @@
                 "open_issues": 240,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5533,
+                "stars": 5538,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:36:19.049Z",
+    "last_updated": "2026-09-04T18:22:20.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
