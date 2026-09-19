@@ -253,7 +253,7 @@ Policy.*
 
 ### Dependencies analysers
 
-* [`weeder`](https://github.com/ocharles/weeder) ⭐ 188 | 🐛 39 | 🌐 Haskell | 📅 2026-09-15:
+* [`weeder`](https://github.com/ocharles/weeder) ⭐ 188 | 🐛 40 | 🌐 Haskell | 📅 2026-09-15:
   Tool for detecting redundant Cabal package dependencies that uses `.hie`
   files introduced in GHC-8.8.
 * [`cabalgraph`](https://hackage.haskell.org/package/cabalgraph):
@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,551 | 🐛 240 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,552 | 🐛 240 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
