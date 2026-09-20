@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,964 | 🌐 Haskell | 📅 2026-09-18: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,965 | 🌐 Haskell | 📅 2026-09-18: Official GitHub source
   repository.
 
 ## Installation
@@ -253,7 +253,7 @@ Policy.*
 
 ### Dependencies analysers
 
-* [`weeder`](https://github.com/ocharles/weeder) ⭐ 188 | 🐛 40 | 🌐 Haskell | 📅 2026-09-15:
+* [`weeder`](https://github.com/ocharles/weeder) ⭐ 189 | 🐛 41 | 🌐 Haskell | 📅 2026-09-15:
   Tool for detecting redundant Cabal package dependencies that uses `.hie`
   files introduced in GHC-8.8.
 * [`cabalgraph`](https://hackage.haskell.org/package/cabalgraph):
@@ -340,7 +340,7 @@ Policy.*
 
 *Cabal integration with other configuration languages and formats.*
 
-* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-09-13:
+* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-09-20:
   A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 * [`cabal2bazel`](https://github.com/google/cabal2bazel) ⚠️ Archived:
   A tool to help with fetching Cabal packages from Hackage and importing them
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,964 | 🌐 Haskell | 📅 2026-09-18:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,965 | 🌐 Haskell | 📅 2026-09-18:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
