@@ -507,7 +507,7 @@
                 "open_issues": 43,
                 "owner": "kowainik",
                 "repo": "tomland",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "bidirectional",
                   "configuration",
@@ -543,7 +543,7 @@
                 "open_issues": 240,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5558,
+                "stars": 5557,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:02:33.263Z",
+    "last_updated": "2026-09-24T19:07:05.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
