@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,975 | 🌐 Haskell | 📅 2026-09-30: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,973 | 🌐 Haskell | 📅 2026-09-30: Official GitHub source
   repository.
 
 ## Installation
@@ -200,7 +200,7 @@ Policy.*
   Policeman assists to properly choose the next version number according
   to PVP (Packaging Version Policy) for the Haskell packages based on the
   semantical changes to the interface.
-* [`pvp`](https://github.com/haskell/pvp) ⭐ 40 | 🐛 24 | 🌐 CSS | 📅 2024-08-14:
+* [`pvp`](https://github.com/haskell/pvp) ⭐ 40 | 🐛 25 | 🌐 CSS | 📅 2024-08-14:
   The GitHub repository to create issues against.
 * [PVP](https://pvp.haskell.org/):
   Official Haskell documentation on versioning.
@@ -253,7 +253,7 @@ Policy.*
 
 ### Dependencies analysers
 
-* [`weeder`](https://github.com/ocharles/weeder) ⭐ 189 | 🐛 42 | 🌐 Haskell | 📅 2026-09-15:
+* [`weeder`](https://github.com/ocharles/weeder) ⭐ 191 | 🐛 42 | 🌐 Haskell | 📅 2026-09-15:
   Tool for detecting redundant Cabal package dependencies that uses `.hie`
   files introduced in GHC-8.8.
 * [`cabalgraph`](https://hackage.haskell.org/package/cabalgraph):
@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,564 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,567 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,975 | 🌐 Haskell | 📅 2026-09-30:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,973 | 🌐 Haskell | 📅 2026-09-30:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

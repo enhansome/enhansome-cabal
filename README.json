@@ -314,7 +314,7 @@
             "language": "CSS",
             "license": null,
             "last_commit": "2024-08-14T21:20:51Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "haskell",
             "repo": "pvp",
             "stars": 40,
@@ -473,7 +473,7 @@
                 "open_issues": 42,
                 "owner": "ocharles",
                 "repo": "weeder",
-                "stars": 189,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -543,7 +543,7 @@
                 "open_issues": 242,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5564,
+                "stars": 5567,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:59:34.486Z",
+    "last_updated": "2026-10-01T20:20:12.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
