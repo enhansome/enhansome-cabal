@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Edward Z. Yang thesis",
-              "description": null,
+              "description": "ezyang/thesis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -313,8 +313,8 @@
             "id": 18646467,
             "language": "CSS",
             "license": null,
-            "last_commit": "2024-08-14T21:20:51Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-02T22:41:07Z",
+            "open_issues": 24,
             "owner": "haskell",
             "repo": "pvp",
             "stars": 40,
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:55:58.772Z",
+    "last_updated": "2026-10-03T04:35:28.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",

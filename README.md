@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,974 | 🌐 Haskell | 📅 2026-09-30: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,975 | 🌐 Haskell | 📅 2026-10-03: Official GitHub source
   repository.
 
 ## Installation
@@ -200,7 +200,7 @@ Policy.*
   Policeman assists to properly choose the next version number according
   to PVP (Packaging Version Policy) for the Haskell packages based on the
   semantical changes to the interface.
-* [`pvp`](https://github.com/haskell/pvp) ⭐ 40 | 🐛 25 | 🌐 CSS | 📅 2024-08-14:
+* [`pvp`](https://github.com/haskell/pvp) ⭐ 40 | 🐛 24 | 🌐 CSS | 📅 2026-10-02:
   The GitHub repository to create issues against.
 * [PVP](https://pvp.haskell.org/):
   Official Haskell documentation on versioning.
@@ -483,13 +483,13 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,974 | 🌐 Haskell | 📅 2026-09-30:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,975 | 🌐 Haskell | 📅 2026-10-03:
   GitHub issue creation page.
 
 ## Contribute to this repository
 
 Improvements to the Awesome Cabal list are more than welcome. Please read the
-[contributing guidelines](https://github.com/kowainik/awesome-cabal/blob/main/CONTRIBUTING.md) ⭐ 122 | 🐛 2 | 📅 2023-12-06,
+[contributing guidelines](https://github.com/kowainik/awesome-cabal/blob/main/CONTRIBUTING.md),
 go ahead and make the difference!
 
 ## License
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
