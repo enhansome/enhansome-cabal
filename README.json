@@ -540,7 +540,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-15T18:13:46Z",
-                "open_issues": 242,
+                "open_issues": 241,
                 "owner": "actions",
                 "repo": "cache",
                 "stars": 5569,
@@ -708,7 +708,7 @@
             "id": 531876766,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T00:34:35Z",
+            "last_commit": "2026-10-04T01:09:45Z",
             "open_issues": 6,
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:40:40.317Z",
+    "last_updated": "2026-10-04T18:37:49.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
