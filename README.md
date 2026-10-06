@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,569 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,570 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -311,7 +311,7 @@ Policy.*
 
 #### *Generic CI*
 
-* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-05-25:
+* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-10-06:
   Universal build and CI testing for Haskell packages. Can produce
   configurations for Travis, AppVeyor and Circle CI.
 * [`cabal-cache`](https://hackage.haskell.org/package/cabal-cache):
