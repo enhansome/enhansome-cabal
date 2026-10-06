@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,977 | 🌐 Haskell | 📅 2026-10-05: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,744 | 🐛 1,976 | 🌐 Haskell | 📅 2026-10-06: Official GitHub source
   repository.
 
 ## Installation
@@ -253,7 +253,7 @@ Policy.*
 
 ### Dependencies analysers
 
-* [`weeder`](https://github.com/ocharles/weeder) ⭐ 191 | 🐛 42 | 🌐 Haskell | 📅 2026-09-15:
+* [`weeder`](https://github.com/ocharles/weeder) ⭐ 192 | 🐛 42 | 🌐 Haskell | 📅 2026-09-15:
   Tool for detecting redundant Cabal package dependencies that uses `.hie`
   files introduced in GHC-8.8.
 * [`cabalgraph`](https://hackage.haskell.org/package/cabalgraph):
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,977 | 🌐 Haskell | 📅 2026-10-05:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,744 | 🐛 1,976 | 🌐 Haskell | 📅 2026-10-06:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
