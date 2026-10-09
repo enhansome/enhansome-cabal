@@ -504,7 +504,7 @@
                 "language": "Haskell",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-30T14:58:52Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "kowainik",
                 "repo": "tomland",
                 "stars": 135,
@@ -543,7 +543,7 @@
                 "open_issues": 242,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5569,
+                "stars": 5570,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:40:56.491Z",
+    "last_updated": "2026-10-09T20:05:47.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
