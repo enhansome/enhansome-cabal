@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,987 | 🌐 Haskell | 📅 2026-10-10: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,983 | 🌐 Haskell | 📅 2026-10-11: Official GitHub source
   repository.
 
 ## Installation
@@ -282,7 +282,7 @@ Policy.*
 
 #### AppVeyor
 
-* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 135 | 🐛 44 | 🌐 Haskell | 📅 2026-08-30:
+* [`appveyor.yml` example](https://github.com/kowainik/tomland/blob/main/appveyor.yml) ⭐ 136 | 🐛 44 | 🌐 Haskell | 📅 2026-08-30:
   Minimal working example of the `appveyor.yml` configuration file.
 * [Haskell & AppVeyor Chocolatey Introduction](https://hub.zhox.com/posts/chocolatey-introduction/):
   Stey-by-step description of building Haskel packages with Chocolatey and
@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,572 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,572 | 🐛 241 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -340,7 +340,7 @@ Policy.*
 
 *Cabal integration with other configuration languages and formats.*
 
-* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-10-04:
+* [`cargo-cabal`](https://github.com/yvan-sraka/cargo-cabal) ⭐ 112 | 🐛 6 | 🌐 Rust | 📅 2026-10-11:
   A tool that helps you to turn in one command a Rust crate into a Haskell Cabal library.
 * [`cabal2bazel`](https://github.com/google/cabal2bazel) ⚠️ Archived:
   A tool to help with fetching Cabal packages from Hackage and importing them
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,987 | 🌐 Haskell | 📅 2026-10-10:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,983 | 🌐 Haskell | 📅 2026-10-11:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

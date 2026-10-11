@@ -507,7 +507,7 @@
                 "open_issues": 44,
                 "owner": "kowainik",
                 "repo": "tomland",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "bidirectional",
                   "configuration",
@@ -540,7 +540,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-15T18:13:46Z",
-                "open_issues": 242,
+                "open_issues": 241,
                 "owner": "actions",
                 "repo": "cache",
                 "stars": 5572,
@@ -708,7 +708,7 @@
             "id": 531876766,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T01:09:45Z",
+            "last_commit": "2026-10-11T04:04:49Z",
             "open_issues": 6,
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:15:55.603Z",
+    "last_updated": "2026-10-11T19:32:16.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
