@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,978 | 🌐 Haskell | 📅 2026-10-14: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,745 | 🐛 1,981 | 🌐 Haskell | 📅 2026-10-14: Official GitHub source
   repository.
 
 ## Installation
@@ -290,7 +290,7 @@ Policy.*
 
 #### GitHub Actions
 
-* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,574 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
+* [`actions/cache`](https://github.com/actions/cache/blob/main/examples.md#haskell---cabal) ⭐ 5,573 | 🐛 242 | 🌐 TypeScript | 📅 2026-07-15:
   This action allows caching dependencies and build outputs to improve workflow
   execution time.
 * [`setup-haskell`](https://github.com/actions/setup-haskell) ⚠️ Archived:
@@ -311,7 +311,7 @@ Policy.*
 
 #### *Generic CI*
 
-* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-10-06:
+* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-10-15:
   Universal build and CI testing for Haskell packages. Can produce
   configurations for Travis, AppVeyor and Circle CI.
 * [`cabal-cache`](https://hackage.haskell.org/package/cabal-cache):
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,978 | 🌐 Haskell | 📅 2026-10-14:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,745 | 🐛 1,981 | 🌐 Haskell | 📅 2026-10-14:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

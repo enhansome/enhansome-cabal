@@ -543,7 +543,7 @@
                 "open_issues": 242,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5574,
+                "stars": 5573,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -588,7 +588,7 @@
                 "id": 68154905,
                 "language": "Shell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T13:47:38Z",
+                "last_commit": "2026-10-15T10:27:48Z",
                 "open_issues": 15,
                 "owner": "composewell",
                 "repo": "packcheck",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:20:40.771Z",
+    "last_updated": "2026-10-15T19:05:38.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
