@@ -588,7 +588,7 @@
                 "id": 68154905,
                 "language": "Shell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-21T00:10:17Z",
+                "last_commit": "2026-10-22T18:37:48Z",
                 "open_issues": 15,
                 "owner": "composewell",
                 "repo": "packcheck",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:17:12.391Z",
+    "last_updated": "2026-10-22T19:12:05.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",

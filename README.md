@@ -34,7 +34,7 @@ Cabal — **C**ommon **A**rchitecture for **B**uilding **A**pplications and
 
 * [Official website](https://www.haskell.org/cabal/)
 * [Official documentation](https://www.haskell.org/cabal/users-guide/)
-* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,747 | 🐛 1,981 | 🌐 Haskell | 📅 2026-10-21: Official GitHub source
+* [`haskell/cabal`](https://github.com/haskell/cabal) ⭐ 1,747 | 🐛 1,984 | 🌐 Haskell | 📅 2026-10-22: Official GitHub source
   repository.
 
 ## Installation
@@ -311,7 +311,7 @@ Policy.*
 
 #### *Generic CI*
 
-* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-10-21:
+* [`packcheck`](https://github.com/composewell/packcheck) ⭐ 93 | 🐛 15 | 🌐 Shell | 📅 2026-10-22:
   Universal build and CI testing for Haskell packages. Can produce
   configurations for Travis, AppVeyor and Circle CI.
 * [`cabal-cache`](https://hackage.haskell.org/package/cabal-cache):
@@ -483,7 +483,7 @@ type.*
   Development discussion takes place on the cabal-devel mailing list.
 * [Libraries mailing list](http://www.haskell.org/mailman/listinfo/libraries):
   Questions can be sent to the Haskell libraries mailing list.
-* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,747 | 🐛 1,981 | 🌐 Haskell | 📅 2026-10-21:
+* [Issue reporting](https://github.com/haskell/cabal/issues/new) ⭐ 1,747 | 🐛 1,984 | 🌐 Haskell | 📅 2026-10-22:
   GitHub issue creation page.
 
 ## Contribute to this repository
@@ -498,4 +498,4 @@ go ahead and make the difference!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
