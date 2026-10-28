@@ -543,7 +543,7 @@
                 "open_issues": 243,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5586,
+                "stars": 5587,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -615,7 +615,7 @@
               "description": "Docker image with GHC+musl and Cabal for static executables.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Docker image with GHC+musl for static executables",
                 "homepage": null,
                 "id": 225121943,
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:02:56.841Z",
+    "last_updated": "2026-10-28T20:14:41.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
