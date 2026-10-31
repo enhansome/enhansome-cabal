@@ -15,8 +15,8 @@
             "id": 221095211,
             "language": "PowerShell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T20:42:48Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-30T23:33:41Z",
+            "open_issues": 0,
             "owner": "kakkun61",
             "repo": "ghcman",
             "stars": 21,
@@ -543,7 +543,7 @@
                 "open_issues": 243,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5590,
+                "stars": 5592,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:55:30.086Z",
+    "last_updated": "2026-10-31T19:15:25.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
