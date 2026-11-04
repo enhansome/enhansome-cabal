@@ -469,8 +469,8 @@
                 "id": 207516878,
                 "language": "Haskell",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-15T09:57:39Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-04T14:21:31Z",
+                "open_issues": 44,
                 "owner": "ocharles",
                 "repo": "weeder",
                 "stars": 193,
@@ -540,7 +540,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-15T18:13:46Z",
-                "open_issues": 243,
+                "open_issues": 241,
                 "owner": "actions",
                 "repo": "cache",
                 "stars": 5594,
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:57:29.266Z",
+    "last_updated": "2026-11-04T21:17:08.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
