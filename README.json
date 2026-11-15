@@ -543,7 +543,7 @@
                 "open_issues": 242,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5600,
+                "stars": 5602,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -708,7 +708,7 @@
             "id": 531876766,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T04:30:32Z",
+            "last_commit": "2026-11-15T04:52:08Z",
             "open_issues": 6,
             "owner": "yvan-sraka",
             "repo": "cargo-cabal",
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:54:42.829Z",
+    "last_updated": "2026-11-15T20:23:00.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
