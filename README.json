@@ -473,7 +473,7 @@
                 "open_issues": 44,
                 "owner": "ocharles",
                 "repo": "weeder",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -543,7 +543,7 @@
                 "open_issues": 242,
                 "owner": "actions",
                 "repo": "cache",
-                "stars": 5605,
+                "stars": 5606,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:31.992Z"
@@ -825,7 +825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:34:39.575Z",
+    "last_updated": "2026-11-19T22:39:06.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "💫 A curated list of awesome resources for the Haskell Cabal build tool.",
